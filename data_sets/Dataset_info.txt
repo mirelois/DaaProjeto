@@ -1,0 +1,65 @@
+The variations in the dataset:
+Name: The name refers to the name of the country
+Datetime: Datetime denotes the date and time at which the weather conditions were observed or predicted.
+
+Tempmax: Tempmax represents the maximum temperature recorded or forecasted for a specific day in Portugal.
+
+Tempmin: Tempmin signifies the minimum temperature observed or predicted for aa specific day in Portugal.
+
+Temp: Temp denotes the current temperature in Portugal at the time of observation or prediction.
+
+Feelslikemax: Feelslikemax indicates the maximum "feels like" temperature experienced or expected in Portugal, which takes into account factors such as humidity and wind.
+
+Feelslikemin: Feelslikemin represents the minimum "feels like" temperature experienced or expected in Portugal.
+
+Feelslike: Feelslike refers to the current "feels like" temperature in Portugal.
+
+Dew: Dew represents the temperature at which air becomes saturated with water vapor, leading to the formation of dew.
+
+Humidity: Humidity indicates the amount of moisture present in the air, expressed as a percentage.
+
+Precip: Precip signifies the amount of rain precipitation that fell in Portugal.
+
+Precipprob: Precipprob represents the probability or likelihood of precipitation occurring in Portugal.
+
+Precipcover: Precipcover denotes the extent or coverage of an area that will be affected by precipitation in Portugal.
+
+Preciptype: Preciptype specifies the type of precipitation that is occurring or expected to occur in Portugal (rain, snow, sleet, etc.).
+
+Snow: Snow represents the amount of snowfall in Portugal, measured in centimeters.
+
+Snowdepth: Snowdepth indicates the depth of accumulated snow on the ground in Portugal.
+
+Windgust: Windgust signifies the maximum speed of wind gusts recorded in Portugal.
+
+Windspeed: Windspeed denotes the current speed of the wind in Portugal.
+
+Winddir: Winddir represents the direction from which the wind is blowing in Portugal.
+
+Sealevelpressure: Sealevelpressure refers to the atmospheric pressure measured at sea level in Portugal.
+
+Cloudcover: Cloudcover indicates the extent to which the sky is covered by clouds in Portugal, expressed as a percentage.
+
+Visibility: Visibility measures the horizontal distance at which objects are clearly visible in Portugal.
+
+Solarradiation: Solarradiation represents the amount of solar energy or radiation received at the Earth's surface in Portugal.
+
+Solarenergy: Solarenergy denotes the amount of solar energy that is available for use or absorbed by the Earth in Portugal.
+
+UVindex: UVindex represents the level of ultraviolet (UV) radiation from the sun in Portugal, which indicates the risk of sunburn or skin damage.
+
+Severerisk: Severerisk signifies the level of risk or potential severity of adverse weather conditions in Portugal.
+
+Sunrise: Sunrise denotes the time at which the sun rises above the horizon in Portugal.
+
+Sunset: Sunset represents the time at which the sun sets below the horizon in Portugal.
+
+Moonphase: Moonphase refers to the current phase or appearance of the moon in Portugal (the proportion of the moon that we saw on a specific day ), expressed as a percentage.
+
+Conditions: Conditions describe the overall weather conditions prevailing in Portugal, which include cloud cover.
+
+Description: Description provides additional details or information about the weather conditions in Portugal, such as the state of a specific day.
+
+Icon: Icon represents a visual representation or symbol used to depict the weather conditions in Portugal.
+
+Stations: Stations denote the specific locations or weather stations from which the data or observations are recorded in Portugal.
