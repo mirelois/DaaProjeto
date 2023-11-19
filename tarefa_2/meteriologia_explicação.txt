@@ -1,0 +1,15 @@
+dt - o timestamp associado ao registo;
+dt_iso - a data associada ao registo, ao segundo;
+city_name - o local em causa;
+temp - temperatura em ºC;
+feels_like - sensação térmica em ºC;
+temp_min - temperatura mínima sentida em ºC;
+temp_max - temperatura máxima sentida em ºC;
+pressure - pressão atmosférica sentida em atm;
+sea_level - pressão atmosférica sentida ao nível do mar em atm;
+grnd_level - pressão atmosférica sentida à altitude local em atm;
+humidity - humidade em percentagem;
+wind_speed - velocidade do vento em metros por segundo;
+rain_1h - valor médio de precipitação;
+clouds_all - nível de nebulosidade em percentagem;
+weather_description - avaliação qualitativa do estado do tempo.
